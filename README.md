@@ -83,7 +83,7 @@ I tried to bulid small weather App with google map and other 7 days information 
  
 <br/>
 <br/>
-<img src="https://github.com/iamphenomenal2822/Weather-Forecast/blob/main/ezgif.com-gif-maker%20(1).gif" alt="Search-Results" width="1000">
+<img src="https://github.com/iamphenomenal2822/Weather-Forecast/blob/main/ezgif.com-gif-maker%20(2).gif" alt="Search-Results" width="1000">
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
